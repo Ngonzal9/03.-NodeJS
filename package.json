@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/Ngonzal9/03.-NodeJS/issues"
   },
-  "homepage": "https://github.com/Ngonzal9/03.-NodeJS#readme",
-  "dependencies": {
-    "bootstrap": "^5.1.3",
-    "lodash": "^4.17.21"
-  }
+  "homepage": "https://github.com/Ngonzal9/03.-NodeJS#readme"
 }
